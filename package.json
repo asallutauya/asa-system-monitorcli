@@ -1,0 +1,27 @@
+{
+  "name": "asa-system-monitorcli",
+  "version": "1.0.0",
+  "description": "A CLI application to monitor system stats like CPU, RAM, power consumption, and temperature.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asallutauya/asa-system-monitorcli"
+    },
+  "homepage": "https://twitter.com/nestor_whybrew",
+  "dependencies": {
+    "lowdb": "^1.0.0",
+    "chalk": "^4.1.0",
+    "systeminformation": "^5.6.4",
+    "asa-system-monitorcli": "^1.0.0"
+  },
+  "author": "Asa",
+  "license": "ISC"
+}
+
+
+
+
+
